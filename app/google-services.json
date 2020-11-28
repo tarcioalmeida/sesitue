@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "142649130814",
+    "firebase_url": "https://sesitue.firebaseio.com",
+    "project_id": "sesitue",
+    "storage_bucket": "sesitue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142649130814:android:8070e54e6d0607ea",
+        "android_client_info": {
+          "package_name": "br.mandioca.sesitue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142649130814-1qe18tekcbq3cotltdbkp581oqvccnjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.mandioca.sesitue",
+            "certificate_hash": "b1d6164dfc40dcb361d7dd992bc6f97345855ccb"
+          }
+        },
+        {
+          "client_id": "142649130814-50mlb556acvhq455g87d5fjg3lvm67g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBklxz1aXAW416OZ_M83UnqW0WLs_V_tlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142649130814-50mlb556acvhq455g87d5fjg3lvm67g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

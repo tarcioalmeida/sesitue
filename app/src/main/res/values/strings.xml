@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SeSitue</string>
+    <string name="google_maps_key">AIzaSyBwGkshG1mDicvCDB0HVjWqK6iWlIJyrC8</string>
+    <string name="title_activity_historico__log">Historico_Log</string>
+</resources>
